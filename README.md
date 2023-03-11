@@ -19,5 +19,8 @@ Client Usage:
 Server Usage:
 - ./server [SERVER PORT]
 
+UDP Client:
+- Check the README.md for the udp client.
+
 TODO:
 - Update the Application-level protocol that ensures data framing over TCP to a more efficient protocol.
